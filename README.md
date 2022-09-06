@@ -1,11 +1,11 @@
 # HookedApp
 
-##Para ver el proyecto en vivo: https://juannjo.github.io/HookedApp/
+## Para ver el proyecto en vivo: https://juannjo.github.io/HookedApp/
 
 Hooked App es una aplicación creada con React y Vite con la poderosa API de "The Movie Database". 
 Nos permite a partir de coincidencias encontrar las películas que le indiquemos, mostrándonos (por ahora) los primeros 20 resultados que coincidan con la busqueda, aunque desde este punto se irán añadiendo mas features.
 
-##Tecnologías
+## Tecnologías
 
 ### Vite react
 HookedApp está creada con Vite react, una herramienta que nos permite instalar la mayoría de dependencias de la librería o herramienta que vayamos a usar, sin atarnos a ningún framework, la razón de Vite y no de Create-react-app es debido a que las dependencias de Vite son mucho más sencillas, ya que si bien no instala todo lo que si instala CRA, la instalación más limpia nos permite trabajar desde cero sin mucho ruido.
